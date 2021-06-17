@@ -1,7 +1,8 @@
 # [Partido Libertario Mx Social Networks Analysis](#Table-Of-Contents)
 Analyzing the results from their social networks, insights and proposing posible actions to improve.
 
-![7ZgECHff_400x400](https://user-images.githubusercontent.com/58957744/122456991-c815e980-cf73-11eb-934f-adee99c33b28.jpg)
+![ddddddd](https://user-images.githubusercontent.com/58957744/122457682-86397300-cf74-11eb-8588-eefa60037311.png)
+
 
 
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
