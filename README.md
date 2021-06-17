@@ -80,10 +80,9 @@ All the results are written below but if you want to see the **report in PowerBI
   * os
 
 # [Data Wrangling](#Table-Of-Contents)
-The wrangling was done altogether (twitter and facebook) in a jupyter notebook via google colab, to see the entire document and more in detail comments I added [click](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau/blob/main/Libertarian_cleaning_github_version.ipynb) if the document don't open reload or download and open it with Google Colab. 
+The entire data cleaning was made on this [notebook](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/Libertarian_cleaning.ipynb) if you are technical maybe this may interest you, the U-MannWhitney test was donde [here](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/Month_Comparison.ipynb)
 
-
-## The wrangling can be divided in 3 simple steps:
+## The data cleaning can be divided in 3 simple steps:
 
 ### 1. Importing Libraries and declaring the function I will use to create some features on the next functions.
 
