@@ -33,13 +33,22 @@ All the results are written below but if you want to see the **report in PowerBI
 
 **Some of the visualizations**
 
+
+
+
 **Overall comparison**
 
 ![overall](https://user-images.githubusercontent.com/58957744/122456421-2a221f00-cf73-11eb-877a-a6bb32e125b3.png)
 
+
+
+
 **Facebook**
 
 ![fb](https://user-images.githubusercontent.com/58957744/122456441-30180000-cf73-11eb-807e-834e8e47090b.png)
+
+
+
 
 **Twitter**
 
