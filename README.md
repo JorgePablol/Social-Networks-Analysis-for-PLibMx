@@ -7,18 +7,18 @@ You can start by reading the results or go directly to the [table of contents](#
 All the results are written below but if you want to see the **report in PowerBI** [click](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
 
 *    Twitter
-    * We must take advantage of the trendings related to libertarianism, failures in the federal government and anti-communism to grow our reach on social networks, we must tweet quickly and get on the trend. 
-    * Our results this month are not significantly lower than the past month (U-MannWhitney test).
-    * Even though this month is not significantly lower, we couldn't get on the trends since they were about elections.
+      * We must take advantage of the trendings related to libertarianism, failures in the federal government and anti-communism to grow our reach on social networks, we must tweet quickly and get on the trend. 
+      * Our results this month are not significantly lower than the past month (U-MannWhitney test).
+      * Even though this month is not significantly lower, we couldn't get on the trends since they were about elections.
 *    Facebook
-    * We must have content related to ephemeris ready, especially if it is related to capitalism and libertarianism, it will make us grow as we see it in the first peak of this month and as we saw it in 8M.
-    * Our results this month are significantly lower than the past month (U-MannWhitney test).
-    * Our best months with the greatest scope were those in which great exponents of libertarianism accompanied us in our events, we must begin to create personalities from our people.
+      * We must have content related to ephemeris ready, especially if it is related to capitalism and libertarianism, it will make us grow as we see it in the first peak of this month and as we saw it in 8M.
+      * Our results this month are significantly lower than the past month (U-MannWhitney test).
+      * Our best months with the greatest scope were those in which great exponents of libertarianism accompanied us in our events, we must begin to create personalities from our people.
     * Create our own memes for this platform.
 *    TikTok
-    * Taking the trends from twitter, our personal brands from facebook, we must take our people to create content, specifically video content with maximum 60 seconds length, to have an impact on tiktok. Our best videos on titok take a trend from twitter and expose their position with data and emotions in not more than 60 seconds.
-    * We achive at least 1 video that grows more than the others each month, that video achieves around 11k and 15k views.
-    * Our results this month are significantly lower than the past month (U-MannWhitney test).
+      * Taking the trends from twitter, our personal brands from facebook, we must take our people to create content, specifically video content with maximum 60 seconds length, to have an impact on tiktok. Our best videos on titok take a trend from twitter and expose their position with data and emotions in not more than 60 seconds.
+      * We achive at least 1 video that grows more than the others each month, that video achieves around 11k and 15k views.
+      * Our results this month are significantly lower than the past month (U-MannWhitney test).
 
 * Actions:
     1. Quickly get on the trends on twitter.
@@ -30,6 +30,19 @@ All the results are written below but if you want to see the **report in PowerBI
     7. Use our best publications and tweets to map what our audience wants us to explain in the next event.
 
 **Some of the visualizations**
+
+**Overall comparison**
+
+![overall](https://user-images.githubusercontent.com/58957744/122456421-2a221f00-cf73-11eb-877a-a6bb32e125b3.png)
+
+**Facebook**
+
+![fb](https://user-images.githubusercontent.com/58957744/122456441-30180000-cf73-11eb-807e-834e8e47090b.png)
+
+**Twitter**
+
+![twitter](https://user-images.githubusercontent.com/58957744/122456464-373f0e00-cf73-11eb-8e2c-b0f4b9dc5b02.png)
+
 
 
 
