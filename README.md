@@ -14,7 +14,7 @@ All the results are written below but if you want to see the **report in PowerBI
       * We must have content related to ephemeris ready, especially if it is related to capitalism and libertarianism, it will make us grow as we see it in the first peak of this month and as we saw it in 8M.
       * Our results this month are significantly lower than the past month (U-MannWhitney test).
       * Our best months with the greatest scope were those in which great exponents of libertarianism accompanied us in our events, we must begin to create personalities from our people.
-    * Create our own memes for this platform.
+      * Create our own memes for this platform.
 *    TikTok
       * Taking the trends from twitter, our personal brands from facebook, we must take our people to create content, specifically video content with maximum 60 seconds length, to have an impact on tiktok. Our best videos on titok take a trend from twitter and expose their position with data and emotions in not more than 60 seconds.
       * We achive at least 1 video that grows more than the others each month, that video achieves around 11k and 15k views.
