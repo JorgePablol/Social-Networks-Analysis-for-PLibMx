@@ -24,6 +24,8 @@ All the results are written below but if you want to see the report in tableau [
   * Datetime
   * Excel
   * Power BI
+  * re
+  * os
 
 # [Data Wrangling](#Table-Of-Contents)
 The wrangling was done altogether (twitter and facebook) in a jupyter notebook via google colab, to see the entire document and more in detail comments I added [click](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau/blob/main/Libertarian_cleaning_github_version.ipynb) if the document don't open reload or download and open it with Google Colab. 
