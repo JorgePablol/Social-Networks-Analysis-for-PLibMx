@@ -1,22 +1,24 @@
 ![ddddddd](https://user-images.githubusercontent.com/58957744/122457682-86397300-cf74-11eb-8588-eefa60037311.png)
 
-# [Partido Libertario Mx Social Networks Analysis](#Table-Of-Contents)
+# Partido Libertario Mx Social Networks Analysis
 Analyzing the results from their social networks this report corresponds to may 2021, insights and proposing posible actions to improve.
 
 You can start by reading the results or go directly to the [table of contents](#Table-Of-Contents).
 
-# [Results](#Table-Of-Contents)
+# Results
 All the results are written below but if you want to see the **report in PowerBI** [click](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
 
 ### Twitter
    * We must **take advantage of the trendings related to libertarianism, failures in the federal government and anti-communism to grow our reach on social networks,** we must tweet quickly and get on the trend. 
    * Our results this month are **not significantly lower** than the past month (U-MannWhitney test).
    * Even though this month is not significantly lower, we couldn't get on the trends since **they were about elections.**
+   * 
 ### Facebook
    * We **must have content related to ephemeris ready,** especially if it is related to capitalism and libertarianism, it will make us grow as we see it in the first peak of this month and as we saw it in 8M.
    * Our results this month are **significantly lower** than the past month (U-MannWhitney test).
    * Our best months with the greatest scope were those in which great exponents of libertarianism accompanied us in our events, we must begin to create personalities from our people.
    * Create our**own memes for this platform.**
+  
 ### TikTok
    * **Taking the trends from twitter, our personal brands from facebook, we must take our people to create content, specifically video content with maximum 60 seconds length, to have an impact on tiktok. Our best videos on titok take a trend from twitter and expose their position with data and emotions in not more than 60 seconds.**
    * We achive **at least 1 video that grows** more than the others each month, that video achieves around **11k and 15k views.**
@@ -62,14 +64,13 @@ All the results are written below but if you want to see the **report in PowerBI
 
 # Table Of Contents
 
-* [Abstract](#Partido-Libertario-Mx-Social-Networks-Analysis)
-* [Online Visualization](#Online-Visualization)
-* [Results](#Results)
-* [Tools And Libraries](#Tools-And-Libraries)
-* [Data Wrangling](#Data-Wrangling)
+* Abstract
+* Online Visualization
+* Results
+* Tools And Libraries
+* Data Wrangling
 
-
-# [Tools And Libraries](#Table-Of-Contents)
+# Tools And Libraries
   * Python 3.7
   * Pandas 1.1.5
   * Numpy 1.19.5
@@ -79,7 +80,7 @@ All the results are written below but if you want to see the **report in PowerBI
   * re
   * os
 
-# [Data Wrangling](#Table-Of-Contents)
+# Data Wrangling
 The entire data cleaning was made on this [notebook](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/Libertarian_cleaning.ipynb) if you are technical maybe this may interest you, the U-MannWhitney test was donde [here](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/Month_Comparison.ipynb)
 
 ## The data cleaning can be divided in 3 simple steps:
