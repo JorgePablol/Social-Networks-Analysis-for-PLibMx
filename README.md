@@ -12,7 +12,7 @@ All the results are written below but if you want to see the **report in PowerBI
    * We must **take advantage of the trendings related to libertarianism, failures in the federal government and anti-communism to grow our reach on social networks,** we must tweet quickly and get on the trend. 
    * Our results this month are **not significantly lower** than the past month (U-MannWhitney test).
    * Even though this month is not significantly lower, we couldn't get on the trends since **they were about elections.**
-   * 
+   
 ### Facebook
    * We **must have content related to ephemeris ready,** especially if it is related to capitalism and libertarianism, it will make us grow as we see it in the first peak of this month and as we saw it in 8M.
    * Our results this month are **significantly lower** than the past month (U-MannWhitney test).
